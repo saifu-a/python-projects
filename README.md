@@ -1,5 +1,5 @@
 # Python Projects
 
-Contains all the Python Projects I have donw so far.
+Contains all the Python Projects I have done so far.
 
 Some are incomplete.
